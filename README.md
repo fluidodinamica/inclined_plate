@@ -1,1 +1,3 @@
-# inclined_plate
+# Inclined plate
+
+## Experimental Setup
