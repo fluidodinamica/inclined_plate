@@ -11,3 +11,7 @@ L =
 W = 
 
 $C_D$
+
+
+OPENSCAD
+FREECAD
