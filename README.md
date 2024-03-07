@@ -1,3 +1,3 @@
 # Inclined plate
 
-## Experimental Setup
+## Experimental Setup [/setup/config.md]
