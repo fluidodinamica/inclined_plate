@@ -1,0 +1,145 @@
+\begin{thebibliography}{}
+
+\bibitem[Abernathy, 1962]{abernathy1962flow}
+Abernathy, F.~H. (1962).
+\newblock {Flow Over an Inclined Plate}.
+\newblock {\em Journal of Basic Engineering}, 84(3):380--388.
+
+\bibitem[Boury et~al., 2018]{boury2018forced}
+Boury, S., Thiria, B., Godoy-Diana, R., Artana, G., Wesfreid, J., and D'Adamo,
+  J. (2018).
+\newblock Forced wakes far from threshold: Stuart-landau equation applied to
+  experimental data.
+\newblock {\em Physical Review Fluids}, 3(9):091901.
+
+\bibitem[Castro~Hebrero et~al., 2020]{castro2020vortex}
+Castro~Hebrero, F., D'Adamo, J., Sosa, R., and Artana, G. (2020).
+\newblock Vortex induced vibrations suppression for a cylinder with plasma
+  actuators.
+\newblock {\em Journal of Sound and Vibration}, 468:115121.
+
+\bibitem[D'Adamo et~al., 2022]{dadamo2022wake}
+D'Adamo, J., Collaud, M., Sosa, R., and Godoy-Diana, R. (2022).
+\newblock Wake and aeroelasticity of a flexible pitching foil.
+\newblock {\em Bioinspiration \& Biomimetics}.
+
+\bibitem[D'Adamo et~al., 2011]{dadamo2011b}
+D'Adamo, J., Godoy-Diana, R., and Wesfreid, J.~E. (2011).
+\newblock Spatio-temporal spectral analysis of a forced cylinder wake.
+\newblock {\em Physical Review E}, 84(5):1--8.
+
+\bibitem[D'Adamo et~al., 2017]{dadamo2017a}
+D'Adamo, J., Leonardo, L., Castro~Hebrero, F., Sosa, R., Duriez, T., and Artana
+  (2017).
+\newblock Circular cylinder drag reduction by three-electrode plasma symmetric
+  forcing.
+\newblock {\em ASME J. Fluids Eng.}
+
+\bibitem[D'Adamo et~al., 2014]{dadamo2014a}
+D'Adamo, J., Sosa, R., and Artana, G. (2014).
+\newblock Active control of a backward facing step flow with plasma actuators.
+\newblock {\em ASME J. Fluids Eng.}, 136(12):1--12.
+
+\bibitem[Eiffel, 1907]{eiffel1907recherches}
+Eiffel, G. (1907).
+\newblock {\em Recherches exp{\'e}rimentales sur la r{\'e}sistance de l'air
+  ex{\'e}cut{\'e}es {\`a} la tour Eiffel}.
+\newblock L. Maretheux.
+
+\bibitem[Fage and Johansen, 1927]{fage1927flow}
+Fage, A. and Johansen, F. (1927).
+\newblock On the flow of air behind an inclined flat plate of infinite span.
+\newblock {\em Proceedings of the Royal Society of London. Series A, Containing
+  Papers of a Mathematical and Physical Character}, 116(773):170--197.
+
+\bibitem[Flachsbart, 1932]{flachsbart1932}
+Flachsbart, O. (1932).
+\newblock Messungen an ebenen und gewolbten flatten,.
+\newblock In {\em AErgebnisse der Aerodynamischen Versuchanstalt zu Gollingen},
+  volume~4, pages 96--100. Verlag von R. Oldenbourg.
+
+\bibitem[Gomez and Sumner, 2022]{gomez2022wake}
+Gomez, E.~M. and Sumner, D. (2022).
+\newblock The wake of a rectangular flat plate.
+\newblock {\em Fluid Dynamics Research}, 54(6):065504.
+
+\bibitem[Kirchhoff, 1869]{kirchhoff1869theorie}
+Kirchhoff, G. (1869).
+\newblock Zur theorie freier fl{\"u}ssigkeitsstrahlen.
+\newblock {\em Journal für die reine und angewandte Mathematik}.
+
+\bibitem[Kiya and Arie, 1977]{kiya1977contribution}
+Kiya, M. and Arie, M. (1977).
+\newblock A contribution to an inviscid vortex-shedding model for an inclined
+  flat plate in uniform flow.
+\newblock {\em Journal of Fluid Mechanics}, 82(2):223--240.
+
+\bibitem[Najjar and Balachandar, 1998]{najjar1998low}
+Najjar, F.~M. and Balachandar, S. (1998).
+\newblock Low-frequency unsteadiness in the wake of a normal flat plate.
+\newblock {\em Journal of Fluid Mechanics}, 370:101--147.
+
+\bibitem[Najjar and Vanka, 1995]{najjar1995effects}
+Najjar, F.~M. and Vanka, S. (1995).
+\newblock Effects of intrinsic three-dimensionality on the drag characteristics
+  of a normal flat plate.
+\newblock {\em Physics of fluids}, 7(10):2516--2518.
+
+\bibitem[Panesar et~al., 2023]{panesar2023oblique}
+Panesar, S.~S., Xia, H., and Passmore, M. (2023).
+\newblock Oblique and parallel modes of the bistable bluff body wake.
+\newblock {\em Physical Review Fluids}, 8(8):084601.
+
+\bibitem[Popinet et~al., 2014]{popinet2014basilisk}
+Popinet, S. et~al. (2014).
+\newblock Basilisk.
+\newblock {\em URL: http://basilisk. fr}.
+
+\bibitem[Rayleigh, 1911]{rayleigh1911xxiii}
+Rayleigh, L. (1911).
+\newblock Xxiii. hydrodynamical notes.
+\newblock {\em The London, Edinburgh, and Dublin Philosophical Magazine and
+  Journal of Science}, 21(122):177--195.
+
+\bibitem[Saha, 2007]{saha2007far}
+Saha, A.~K. (2007).
+\newblock Far-wake characteristics of two-dimensional flow past a normal flat
+  plate.
+\newblock {\em Physics of Fluids}, 19(12).
+
+\bibitem[Satheesh and Huera-Huarte, 2019]{satheesh2019effect}
+Satheesh, S. and Huera-Huarte, F.~J. (2019).
+\newblock Effect of free surface on a flat plate translating normal to the
+  flow.
+\newblock {\em Ocean Engineering}, 171:458--468.
+
+\bibitem[Shademan and Naghib-Lahouti, 2020]{shademan2020effects}
+Shademan, M. and Naghib-Lahouti, A. (2020).
+\newblock Effects of aspect ratio and inclination angle on aerodynamic loads of
+  a flat plate.
+\newblock {\em Advances in Aerodynamics}, 2(1):1--23.
+
+\bibitem[Sosa et~al., 2009]{sosa2009a}
+Sosa, R., D'Adamo, J., and Artana, G. (2009).
+\newblock Circular cylinder drag reduction by three-electrode plasma actuators.
+\newblock {\em J. Phys.: Conf. Ser.}, 166:1--14.
+
+\bibitem[Sosa et~al., 2013]{sosa2013}
+Sosa, R., D'Adamo, J., Benard, N., and Moreau, E. (2013).
+\newblock Creation of magnus effect by plasma actuators for lift production on
+  a circular cylinder.
+\newblock {\em submitted to Fluid Dynamics Research}.
+
+\bibitem[von K\'arm\'an, 1911]{vonkarman1911}
+von K\'arm\'an, T. (1911).
+\newblock \"{U}ber den mechanismus des widerstandes, den ein bewegter
+  k\"{o}rper in einer fl\"{u}ssigkeit erf\"{a}hrt.
+\newblock {\em Nachr. Ges. Wissenschaft. G\"{o}ttingen}, pages 509--517.
+
+\bibitem[Yang et~al., 2012]{yang2012vortex}
+Yang, D., Pettersen, B., Andersson, H.~I., and Narasimhamurthy, V.~D. (2012).
+\newblock Vortex shedding in flow past an inclined flat plate at high
+  incidence.
+\newblock {\em Physics of fluids}, 24(8).
+
+\end{thebibliography}

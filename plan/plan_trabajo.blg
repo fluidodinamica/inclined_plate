@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: plan_trabajo.aux
+The style file: apalike.bst
+Database file #1: /home/juan/Documents/bibtex/citas.bib
+I was expecting a `,' or a `}'---line 13960 of file /home/juan/Documents/bibtex/citas.bib
+ : 
+ : pages={289-298},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 25 entries,
+            1935 wiz_defined-function locations,
+            694 strings with 8382 characters,
+and the built_in function-call counts, 9601 in all, are:
+= -- 934
+> -- 383
+< -- 18
++ -- 130
+- -- 126
+* -- 815
+:= -- 1695
+add.period$ -- 76
+call.type$ -- 25
+change.case$ -- 186
+chr.to.int$ -- 25
+cite$ -- 25
+duplicate$ -- 363
+empty$ -- 671
+format.name$ -- 166
+if$ -- 1868
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 26
+newline$ -- 128
+num.names$ -- 75
+pop$ -- 143
+preamble$ -- 1
+purify$ -- 187
+quote$ -- 0
+skip$ -- 289
+stack$ -- 0
+substring$ -- 653
+swap$ -- 42
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 148
+warning$ -- 0
+while$ -- 76
+width$ -- 0
+write$ -- 323
+(There was 1 error message)
