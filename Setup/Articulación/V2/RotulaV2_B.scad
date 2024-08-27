@@ -61,26 +61,26 @@ translate([0,0,6.5/2+0.02])
 difference(){
 color([1,0,0])cube([38,38,6.5],center=true);
 
-translate([12.5,7.5,0])
+translate([12.5,12.5,0])
 cylinder(h=15,r=2.66/2,center=true);
-translate([12.5,7.5,3])
+translate([12.5,12.5,3])
 fhex(5.5,2+0.01);   
 
-translate([-11-1.5,7.5,0])
+translate([-11-1.5,12.5,0])
 cylinder(h=15,r=2.66/2,center=true);
-translate([-11-1.5,7.5,3])
+translate([-11-1.5,12.5,3])
 fhex(5.5,2+0.01);  
 
 
-translate([12.5,-7.5,0])
+translate([12.5,-12.5,0])
 cylinder(h=15,r=2.66/2,center=true);
-translate([12.5,-7.5,3])
+translate([12.5,-12.5,3])
 fhex(5.5,2+0.01);   
     
-translate([-11-1.5,-7.5,0])
+translate([-11-1.5,-12.5,0])
 cylinder(h=15,r=2.66/2,center=true);
 
-translate([-11-1.5,-7.5,3])
+translate([-11-1.5,-12.5,3])
 fhex(5.5,2+0.01);
 
 
