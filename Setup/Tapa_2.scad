@@ -29,17 +29,17 @@ translate([12.5,12.5,(2.24+0.5)/2])
 cylinder(h=2.24+0.5+0.001,r=6/2,center=true);
 
 translate([12.5,12.5,0])
-cylinder(h=5+0.001,r=2.52/2,center=true);
+cylinder(h=5.5+0.001,r=2.52/2,center=true);
 
 translate([12.5,-12.5,(2.24+0.5)/2])
 cylinder(h=2.24+0.5+0.001,r=6/2,center=true);
 translate([12.5,-12.5,0])
-cylinder(h=2.24+0.5+0.001,r=2.52/2,center=true);
+cylinder(h=5+0.5+0.001,r=2.52/2,center=true);
 
 translate([-12.5,12.5,(2.24+0.5)/2])
 cylinder(h=2.24+0.5+0.001,r=6/2,center=true);
 translate([-12.5,12.5,0])
-cylinder(h=2.24+0.5+0.001,r=2.52/2,center=true);
+cylinder(h=5+0.5+0.001,r=2.52/2,center=true);
     
 translate([-12.5,-12.5,(2.24+0.5)/2])
 cylinder(h=2.24+0.5+0.001,r=6/2,center=true);
