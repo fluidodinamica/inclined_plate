@@ -1,3 +1,6 @@
+$fa = 1;
+$fs = 0.4;
+
 module phex(wid,rad,height){
 hull(){
 translate([wid/2-rad,0,0])cylinder(r=rad,h=height);
@@ -55,9 +58,9 @@ translate([0,37,1.5])
 cylinder(h=8+0.001,r=5.04/2,center=true);
 
 //hueco rectangular 37mm-5(ancho de hexagono)-largo/2 de hueco
-translate([0,32-4/2,-1.2/2])
+translate([0,32-4/2,1/2])
 color([1,0,1])cube([4
-,5,1.4],center=true);
+,5,2.4],center=true);
 
 
 // Cilindro al final del hueco 32-Ltotal-radio/2
@@ -72,9 +75,9 @@ fhex(11,4-0.1);
 translate([0,-37,1.5])
 cylinder(h=8+0.001,r=5.04/2,center=true); 
 
-translate([0,-32+4/2,-1.2/2])
+translate([0,-32+4/2,1/2])
 color([1,0,0])cube([4
-,5,1.4],center=true);
+,5,2.4],center=true);
 
 translate([0,-32+4.5+1/2,-1])
 cylinder(h=4+0.001,r=1,center=true);
