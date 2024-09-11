@@ -56,7 +56,7 @@ fhex(11,4-0.1);
 
 //hueco para bulon concentrico a hexagono
 translate([0,30,1.5])
-cylinder(h=8+0.001,r=5.04/2,center=true);
+cylinder(h=8+0.001,r=7/2,center=true);
 
 //hueco rectangular 37mm-5(ancho de hexagono)-largo/2 de hueco
 translate([0,30-5-4/2,1/2])
@@ -65,8 +65,8 @@ color([1,0,1])cube([4
 
 
 // Cilindro al final del hueco 32-Ltotal-radio/2
-translate([0,30-5-4.5-1.5/2,-1])
-cylinder(h=4+0.001,r=1.5,center=true);
+translate([0,30-5-4.5-1.4/2,-1])
+cylinder(h=4+0.001,r=2.15,center=true);
 
 //hexagono inferior
 
@@ -74,14 +74,14 @@ translate([0,-30,1.2])
 fhex(11,4-0.1);
 
 translate([0,-30,1.5])
-cylinder(h=8+0.001,r=5.04/2,center=true); 
+cylinder(h=8+0.001,r=7/2,center=true); 
 
 translate([0,-30+5+4/2,1/2])
 color([1,0,0])cube([4
 ,5,2.4],center=true);
 
-translate([0,-30+5+4.5+1/2,-1])
-cylinder(h=4+0.001,r=1,center=true);
+translate([0,-30+5+4.5+1.4/2,-1])
+cylinder(h=4+0.001,r=2.15,center=true);
 
 }
 
