@@ -3,7 +3,7 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: plan_trabajo.aux
 The style file: apalike.bst
 Database file #1: /home/juan/Documents/bibtex/citas.bib
-I was expecting a `,' or a `}'---line 13960 of file /home/juan/Documents/bibtex/citas.bib
+I was expecting a `,' or a `}'---line 14036 of file /home/juan/Documents/bibtex/citas.bib
  : 
  : pages={289-298},
 (Error may have been on previous line)

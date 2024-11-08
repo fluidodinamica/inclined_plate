@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  25 APR 2024 15:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.20)  20 MAY 2024 11:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -96,7 +96,7 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 Package: babel 2022/01/26 3.70 The Babel package
 \babel@savecnt=\count196
 \U@D=\dimen147
-\l@unhyphenated=\language10
+\l@unhyphenated=\language12
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
@@ -1174,10 +1174,10 @@ LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
 ) ) 
 Here is how much of TeX's memory you used:
- 35350 strings out of 480112
- 928559 string characters out of 5892631
- 1283752 words of memory out of 5000000
- 52790 multiletter control sequences out of 15000+600000
+ 35350 strings out of 480089
+ 928559 string characters out of 5891583
+ 1283850 words of memory out of 5000000
+ 52797 multiletter control sequences out of 15000+600000
  516461 words of font info for 54 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
  100i,8n,104p,1084b,815s stack positions out of 5000i,500n,10000p,200000b,80000s
