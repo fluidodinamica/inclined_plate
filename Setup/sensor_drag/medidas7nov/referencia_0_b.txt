@@ -1,0 +1,6140 @@
++0.00000     rpm
+-0.20936    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18599    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15747    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13609    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13567    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15527    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18131    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20102    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20216    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18416    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16067    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14572    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14448    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15848    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18220    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19745    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19541    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18061    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16348    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15402    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15419    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16110    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17468    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18468    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18604    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18026    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16972    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16587    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20064    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.25619    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.24989    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.10482    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00613    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00674    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00716    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.07499    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.28867    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.47217    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.47687    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.29525    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.07774    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00653    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00990    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15676    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.34541    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.39284    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18155    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00712    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00664    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00665    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00664    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00665    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.05889    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.34521    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.62628    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.69154    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.48949    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17033    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00663    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00662    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00662    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00659    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00661    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00661    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00664    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00702    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18047    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46818    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.62572    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.51937    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.22723    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.01036    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00665    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00663    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00663    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00661    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.01249    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17970    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.37163    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46795    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.38402    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18568    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.02584    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00659    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00673    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.01897    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14885    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.29575    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.37738    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.34613    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.22759    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.09390    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.02310    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.01276    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.06718    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18460    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.29469    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.33322    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.27884    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16918    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.07050    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.03758    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.06093    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14281    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.23930    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.29413    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.27983    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20527    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.11668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.06663    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.07167    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13024    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20874    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.26540    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.26710    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.21511    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14427    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.08984    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.08321    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.12548    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19133    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.24310    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.25331    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.21691    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15687    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.10583    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.09464    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.12584    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18065    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.22601    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.23920    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.21518    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16702    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.12219    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.10971    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13396    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17442    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.21040    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.22615    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.21290    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17301    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13147    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.11777    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13731    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17030    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20159    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.21463    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20598    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17301    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14102    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.12930    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14277    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16967    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19879    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.21023    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19897    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17923    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15340    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13383    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13266    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15673    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18676    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20059    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19073    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17324    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16224    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15850    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16420    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17105    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17666    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18302    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18933    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18830    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17191    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14948    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14107    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15703    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18676    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20979    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20780    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17388    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13616    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.11731    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.12691    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16222    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20716    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.23507    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.22260    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17710    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13229    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.11475    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13008    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16501    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20187    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.22151    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.21144    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17976    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14448    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.12488    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13280    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16095    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19317    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.21183    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20664    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18172    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15231    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13459    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13931    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16128    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18908    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20542    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20269    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18258    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15743    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14157    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14308    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16044    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18348    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19914    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19837    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18261    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16094    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14695    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14700    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16119    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18095    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19460    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19553    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18220    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16429    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15084    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15026    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16099    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17751    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18897    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19045    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17979    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16500    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15391    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15300    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16218    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17628    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18651    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18763    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17882    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16599    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15647    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15584    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16434    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17687    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18580    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18613    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17799    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16684    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15904    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.15846    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16630    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17632    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18410    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.18468    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17766    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16781    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16045    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16018    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16794    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.17755    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.19321    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.21025    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.27033    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.34401    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.39582    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.40169    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.36373    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.31463    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.30081    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.34342    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.41221    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46683    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.48085    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.48025    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46448    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.45018    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.43408    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.43165    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44702    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.47531    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.48829    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.48973    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.49241    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.49391    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.47852    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46521    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46348    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46468    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.47021    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46539    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46076    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.45003    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.43655    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.42416    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.43221    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44830    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.45542    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.43800    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.42116    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.40066    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.40948    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.42844    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44433    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44625    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.43374    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.41798    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.41665    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.43147    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44849    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.45469    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.45834    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.45417    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.45440    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.45162    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44178    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.43832    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44297    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44895    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.45601    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44687    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44147    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.43884    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.43639    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.41818    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.39797    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.39031    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.41888    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.48490    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.54469    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.57960    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.56421    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.51682    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46130    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.41535    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.39879    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.40075    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.39600    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.38888    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.36222    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.36078    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.38435    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.42049    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.47245    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.53363    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.59361    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.61686    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.60180    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.56874    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.52322    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.48230    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.45816    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46675    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.49384    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.52417    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.55175    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.54797    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.52797    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.50924    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.53900    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.58316    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.62029    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.59262    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.50619    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.40601    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.34257    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.34617    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.39976    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46361    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.50318    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.51123    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.49252    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.47046    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.46128    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44751    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.42631    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.39950    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.43661    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.53736    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.64192    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.69706    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66213    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.54307    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.41605    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.35857    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.37597    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.42372    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.47993    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.54338    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.63978    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.75095    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.82036    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.81563    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.76401    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70226    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67006    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66650    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67967    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70326    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71162    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70765    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.69275    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.68929    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.68687    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70476    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71452    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71591    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71457    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70794    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70235    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.69924    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70395    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.72068    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.72967    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.73023    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.72202    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.72409    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71869    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71458    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.72431    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.73861    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.74712    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.74028    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.74133    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.75423    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.76956    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.77002    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.74927    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71989    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.68180    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67046    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.68866    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.74432    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.81013    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.86008    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.85274    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.78770    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.68420    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.60787    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.58688    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.60664    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.64408    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70858    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.77846    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.82615    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.83033    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.81463    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.79724    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.79884    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.79575    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.77052    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71636    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66765    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.64413    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.64846    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66464    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67748    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67454    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66905    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66526    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.65860    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.65692    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66041    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66284    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66545    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67729    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70150    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.73890    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.76817    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.79045    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.78322    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.74400    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67651    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.61584    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.58794    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.60302    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.64165    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.68044    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.69821    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70923    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.69969    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67859    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66072    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.65685    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.65964    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66690    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66744    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67486    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67870    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.68026    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.68009    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.68072    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.68755    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67957    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66894    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66499    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66572    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.66885    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.68257    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70308    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71515    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.72047    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.72173    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71803    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.72008    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.72742    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.74601    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.76149    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.76741    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.76947    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.77182    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.77758    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.78288    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.78691    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.79506    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.80213    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.81058    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.83130    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.85438    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.85994    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.84620    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.84757    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.83745    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.84182    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.85470    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.87283    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.88158    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.88268    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.88329    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.88240    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.88833    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.89930    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.91600    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.92436    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.93110    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.93561    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.93553    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.93791    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.95227    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.96221    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.96429    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.97416    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.99689    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.00763    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.02614    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.02569    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.03048    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.03211    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.04618    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.05335    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.06296    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.08905    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.11731    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.13307    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.14556    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.15216    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.15183    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.16133    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.16175    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.17702    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.20419    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.22283    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.22172    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.22516    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.22396    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.21951    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.22033    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.22807    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.24332    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.26044    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.25669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.24990    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.23729    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.22572    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.22716    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.23241    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.24667    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.26168    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27264    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.26824    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.26136    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.25579    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.26396    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.26969    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27260    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27330    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.26233    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.24922    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.23676    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.22479    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.22820    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.23712    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.23879    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.24893    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.23600    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.23896    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.25825    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27406    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.28299    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27989    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27013    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27436    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27651    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27530    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27933    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27635    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.28009    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.29133    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.29801    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.31180    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.31954    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.31909    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.30357    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.29604    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.30756    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.31579    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.31730    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.31244    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.30911    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.31371    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.32768    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.33585    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.36369    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.37560    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.38042    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.38867    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.38661    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.40027    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.41306    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.43484    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.46830    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.48123    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.48868    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.48219    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.48542    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.50235    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.53896    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.57633    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.60586    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.62127    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.62717    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.63246    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.66305    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.68060    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.69665    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.69105    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.68804    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.68086    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.66075    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.64796    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.64312    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.67629    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.70575    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.75712    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.79043    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.80126    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.80129    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.76751    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.73506    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.70140    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.70157    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.72092    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.75769    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.77780    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.78577    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.80503    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.82386    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.85167    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.85750    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.87663    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.88580    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.89021    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.89529    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.90705    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.92676    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.95088    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.97171    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.97330    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.97530    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.95894    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.96128    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.96789    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00218    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03870    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04931    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04697    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05349    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06241    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06622    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08051    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08731    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10295    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08978    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07177    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05794    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06246    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07029    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08853    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09384    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11848    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.14971    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16943    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16318    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12325    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09722    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07953    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07887    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07649    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05571    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03386    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06333    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08161    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09495    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08426    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04107    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98572    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.93561    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.91727    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.92777    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.93977    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.97276    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02859    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07214    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10575    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08290    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05452    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02211    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.01325    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00324    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00440    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00711    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04769    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11537    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16941    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.19447    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.20189    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.18950    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15738    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13391    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11588    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09175    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08024    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05983    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06017    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08039    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09630    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10250    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10436    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08157    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06608    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03599    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02435    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00722    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98880    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98370    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98792    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.99518    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98402    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.97471    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98346    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.01419    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06470    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10544    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15886    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.17221    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.19391    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.20558    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.20046    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.17776    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15463    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16316    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.19303    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.18855    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.19297    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.18047    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15558    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13435    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12984    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15651    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.19056    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.22305    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.24711    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.25024    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.25529    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.22674    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.17761    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11804    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10182    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10743    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.14396    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16041    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15296    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13774    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13449    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11182    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03397    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.93463    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.87341    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.87467    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.94147    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00718    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04987    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05821    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06346    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05204    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10226    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.17174    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.25179    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.25294    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.18173    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07949    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.99887    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.96178    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.96149    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98917    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04867    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11356    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16189    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.18657    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.20126    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.18785    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16209    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11504    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08185    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07932    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08393    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07336    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06090    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02754    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00283    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.96573    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.95090    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.97176    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98926    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.01509    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02582    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04182    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04433    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.01592    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.99821    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.97993    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.96046    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.96339    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98143    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00147    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02002    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02754    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03590    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04320    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04290    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04743    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04018    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02649    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00296    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.01019    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02323    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03821    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02018    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00659    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.99734    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00412    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02578    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05150    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06687    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05182    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02489    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02936    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03474    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05199    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05735    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08055    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08880    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08320    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03836    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.01273    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00421    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.99998    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00732    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02830    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03193    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.02894    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00557    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98365    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98360    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.99347    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.01750    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06740    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10709    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11965    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08068    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04041    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00008    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.97083    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.96396    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.98463    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03329    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06624    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07242    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06811    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05525    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05509    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05084    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.01828    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00660    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03582    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07784    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10135    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11715    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12989    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.17708    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.20181    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.22510    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.20511    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16904    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10733    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06564    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06295    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08453    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10480    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13029    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15488    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.17858    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16784    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.14421    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12739    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.14628    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15487    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15932    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15394    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12928    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09516    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06900    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04986    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06601    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08010    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08842    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10983    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11638    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10294    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07217    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05047    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03851    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.01859    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.03152    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.04721    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07689    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08817    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10000    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12206    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13583    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.14422    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16049    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.17729    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.17304    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15783    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.17199    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.19915    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.21870    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.19830    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16547    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.14263    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13991    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.14786    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16730    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.18304    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.21087    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.22759    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.21829    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.17622    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.14010    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12938    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12414    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11335    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11130    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09712    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07834    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05905    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06212    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06834    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08838    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08746    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08653    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07850    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07120    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08004    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09710    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10521    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12931    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.14011    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13850    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13271    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13329    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13773    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13109    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13061    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13489    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13619    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.16304    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15969    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15439    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13947    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12688    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11700    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11397    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09479    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07823    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07061    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07072    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07350    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07321    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07173    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09242    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.11330    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12312    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12510    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.13096    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12587    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12802    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.12953    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15263    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.15891    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.14436    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09500    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.06081    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.07090    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.08001    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09309    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.10850    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.09698    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.05413    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00076    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.97602    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.99483    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.01392    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-2.00337    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.95417    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.88991    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.83314    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.78793    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.75821    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.74006    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.72936    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.70161    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.66828    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.65045    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.65144    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.64060    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.60466    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.55243    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.48646    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.43070    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.38775    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.37434    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.37946    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.36486    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.34724    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.30512    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.27873    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.25071    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.21978    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.18315    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.14803    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.12341    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.08886    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.07776    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.07180    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.06455    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.05069    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.01549    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.97061    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.93047    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.89216    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.85551    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.82071    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.76502    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.72842    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71578    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.71324    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.70212    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.67643    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.64478    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.62793    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.61419    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.58970    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.55139    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.52093    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.48634    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.21951    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00643    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00645    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00645    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00648    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00674    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00674    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00673    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00674    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00673    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00670    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00670    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00667    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00670    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00670    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00670    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00670    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00670    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00670    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00670    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00667    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.01405    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.77749    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.37348    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-1.17373    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.44983    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.01110    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00816    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.20985    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.48827    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.57904    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.42065    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16370    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.01080    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.08866    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.24225    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.34418    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.29136    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.13563    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.01483    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00674    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00677    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.06774    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.33862    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.55435    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.55243    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.32446    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.06090    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00673    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00673    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00708    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.14787    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.39139    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.49863    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.39332    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16927    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.01178    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00672    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.01811    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.16387    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.30886    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.35850    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.27534    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.11846    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00822    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00671    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00666    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00669    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00679    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00666    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
++0.00000     rpm
+-0.00668    mV/V
++0.00000     deg
+ invalid unit   
+****************
